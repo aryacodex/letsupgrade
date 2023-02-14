@@ -1,0 +1,23 @@
+<!–>	This tag, also known as the comments tag, is used to hide comments and text from showing up on the final page. It is mostly used by coders to insert comments in various sections of the page for their reference, and make such comments not visible to end users, and in the browser.
+
+<!DOCTYPE>	This is the document type tag, which is actually not a tag, but a declaration of the version of HTML that is used. It is to help the browser understand the version and type of web page, without which the browser would not be able to even recognize the webpage. The document type tag does not have an end tag.
+
+<a>	The anchor tag, as this tag is called, interconnects two pages (unidirectional) with the help of a page address. The link of the interconnected page needs to be inserted as part of the href attribute, which makes the text accessible, and directs you to the said page on clicking the linked text.
+
+<body>	The body tag displays all the content of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
+
+<br>	This tag lets you add a line break to the text. It puts anything that comes after it on a new line. The line break tag is an empty tag, meaning it has no end tag.
+
+<button>	The button tag defines a clickable button. Inside this tag you can put content, like text or images.
+
+<center>	The center tag is used to align elements or text to the center of the page. This tag is not supported in HTML 5, CSS properties need to be used instead.
+
+<head>	As the name states, the head tag is mainly responsible for the functioning of the body. The head tag includes all the script and style elements, and must include a title for the document
+
+<header>	The header tag specifies a header for a document or section. The header element should be used as a container for introductory content or a set of navigational links.
+
+<h1> to <h6>	The h1 to h6 tags are used to define HTML headings. They add highlight and font style to let the heading of the section stand out. h1 defines the most important heading, while h6 defines the least important.
+
+<hr>	The hr tag defines a thematic break in an HTML page (e.g., a shift of topic).
+
+<html>	The HTML tag tells the browser that this is an HTML document. This tag is the container for all other HTML elements (except for the <!DOCTYPE> tag).
